@@ -147,6 +147,8 @@ These metrics provide a comprehensive understanding of both localization and cla
 
 A web application has been developed using Streamlit that enables users to perform traffic sign detection without requiring any programming knowledge.
 
+App Link: https://trafficsigndetectionyolov8-mgts9mhrnuhtysyfwnx6qp.streamlit.app/
+
 ### Features
 
 - Upload road images
@@ -199,21 +201,6 @@ Run the Streamlit application
 streamlit run app.py
 ```
 
----
-
-# 📷 Application Preview
-
-## Home Page
-
-*(Add screenshot here)*
-
----
-
-## Detection Result
-
-*(Add screenshot here)*
-
----
 
 # 💡 Key Learnings
 
