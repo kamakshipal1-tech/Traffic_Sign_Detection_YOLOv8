@@ -6,6 +6,8 @@ Traffic signs play a crucial role in ensuring road safety by providing drivers w
 
 This project presents an end-to-end deep learning solution for Traffic Sign Detection using the YOLOv8 object detection model. The model is trained to identify multiple categories of traffic signs from road images and accurately localize them using bounding boxes. A user-friendly Streamlit web application is also developed to allow users to upload road images and visualize detection results in real time.
 
+App Link: https://trafficsigndetectionyolov8-mgts9mhrnuhtysyfwnx6qp.streamlit.app/
+
 ---
 
 # 🎯 Business Problem
@@ -160,48 +162,6 @@ App Link: https://trafficsigndetectionyolov8-mgts9mhrnuhtysyfwnx6qp.streamlit.ap
 
 ---
 
-# 📁 Project Structure
-
-```
-Traffic_Sign_Detection_YOLOv8
-│
-├── app.py
-├── best.pt
-├── requirements.txt
-├── README.md
-├── .gitignore
-└── screenshots
-```
-
----
-
-# ▶️ Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/Traffic_Sign_Detection_YOLOv8.git
-```
-
-Move into the project directory
-
-```bash
-cd Traffic_Sign_Detection_YOLOv8
-```
-
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the Streamlit application
-
-```bash
-streamlit run app.py
-```
-
-
 # 💡 Key Learnings
 
 Through this project, I gained practical experience in:
@@ -244,27 +204,3 @@ Possible enhancements include:
 - Traffic Surveillance
 
 ---
-
-# 👩‍💻 Author
-
-**Kamakshi Pal**
-
-Applied Mathematics Undergraduate  
-Delhi Technological University (DTU)
-
-GitHub: https://github.com/kamakshipal1-tech
-
----
-
-# ⭐ Acknowledgements
-
-- Ultralytics YOLOv8
-- Streamlit
-- OpenCV
-- Roboflow
-- Kaggle
-- Google Colab
-
----
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
